@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Shootable
+comment0.text=\r\n\ Empty\ class\ used\ to\ identify\ the\ subclasses\ in\ other\ methods\r\n\ Subclasses\ of\ this\ can\ be\ shot\ over\ but\ cannot\ be\ moved\ through\r\n
+numComments=1

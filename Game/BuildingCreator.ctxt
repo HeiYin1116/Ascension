@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BuildingCreator
+comment0.text=\r\n\ BuildingCreator\ is\ used\ to\ find\ a\ valid\ spot\ to\ randomly\ place\ the\ building,\ this\ is\ done\ in\ the\ MyWorld\ construction\r\n
+comment1.params=
+comment1.target=BuildingCreator()
+comment1.text=\r\n\ Creates\ an\ invisible\ object\r\n
+comment2.params=
+comment2.target=boolean\ building()
+comment2.text=\r\n\ Tests\ a\ random\ location\ on\ the\ map\ to\ see\ if\ it\ is\ a\ valid\ position\ for\ a\ building\ and\ doesn't\ overlap\ with\ the\ lake\r\n\ x/y\ coordinates\ are\ stored\ on\ each\ attempt\ so\ once\ this\ method\ returns\ true,\ the\ valid\ x/y\ co-ordinate\ can\ be\ accessed\r\n
+comment3.params=
+comment3.target=int\ getbX()
+comment4.params=
+comment4.target=int\ getbY()
+numComments=5

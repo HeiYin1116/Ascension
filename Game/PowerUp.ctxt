@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment0.text=\r\n\ PowerUp\ controls\ giving\ and\ removing\ buffs\ from\ PowerUps\ to\ the\ character\ class,\ based\ on\ interally-held\ timers\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

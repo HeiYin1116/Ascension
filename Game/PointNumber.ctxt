@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PointNumber
+comment0.text=\r\n\ Animates\ the\ points\ going\ towards\ the\ ScoreCounter\ on\ the\ top\ right\r\n
+comment1.params=points\ x\ y
+comment1.target=PointNumber(int,\ int,\ int)
+comment1.text=\r\n\ Takes\ parameters\ of\ point\ value\ of\ the\ dead\ enemy,\ and\ the\ enmies\ x\ and\ y\ location\r\n\ Creates\ the\ PointNumber\ at\ the\ dead\ enemy's\ location\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animation\ of\ the\ points\ flying\ towards\ the\ ScoreCounter\ object\ on\ the\ top\ right,\ removing\ itself\ when\ it\ reaches\ the\ boarder\ of\ the\ ScoreCounter\ \r\n
+numComments=3

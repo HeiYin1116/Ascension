@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ScoreCounter
+comment0.text=\r\n\ Dynamically\ keeps\ track\ of\ the\ score\ during\ game\ play\r\n
+comment1.params=
+comment1.target=ScoreCounter()
+comment1.text=\r\n\ Creates\ a\ score\ counter\ starts\ at\ 0,\ setting\ the\ font\ size\ and\ color.\ Located\ at\ the\ top\ right\ of\ the\ game\r\n
+comment2.params=points
+comment2.target=void\ addInstantScore(int)
+comment2.text=\r\n\ Takes\ parameter\ of\ int\ points\ when\ an\ enemy\ dies.\ Instantly\ adds\ the\ score\ up\ behind\ the\ scene\r\n
+comment3.params=points
+comment3.target=void\ addPoints(int)
+comment3.text=\r\n\ Takes\ parameter\ of\ int\ points\ when\ an\ enemy\ dies.\ End\ of\ the\ animation\ of\ the\ score\ adding\ up\ during\ game\ play\r\n
+comment4.params=
+comment4.target=void\ updateScore()
+comment4.text=\r\n\ Visual\ update\ of\ the\ score\ on\ the\ top\ right.\ \r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ returns\ variable\ instantScore\r\n
+numComments=6

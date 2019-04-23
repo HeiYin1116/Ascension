@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DamageNumber
+comment0.text=\r\n\ Animated\ damage\ numbers\ for\ when\ players/enemies\ are\ hit\r\n
+comment1.params=damage\ playerDamage
+comment1.target=DamageNumber(int,\ boolean)
+comment1.text=\r\n\ Creates\ an\ animated\ damage\ number,\ with\ differening\ text\ depending\ on\ whether\ it\ is\ player\ or\ enemy\ damage\r\n
+comment2.params=text\ error
+comment2.target=DamageNumber(java.lang.String,\ boolean)
+comment2.text=\r\n\ Creates\ an\ animated\ error\ message\ with\ the\ given\ text\r\n
+comment3.params=upgrade
+comment3.target=DamageNumber(Items)
+comment3.text=\r\n\ take\ param\ of\ items\ to\ check\ which\ upgrade\ was\ picked\ up\r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ Items\ deals\ with\ creating\ and\ placing\ item\ drops\ in\ the\ world\r\n\ Contains\ each\ item\ type\ as\ an\ inner\ class\r\n
+comment1.params=
+comment1.target=Items()
+comment2.params=e
+comment2.target=Items(Enemy)
+comment2.text=\r\n\ Randomly\ drop\ an\ upgrade\ or\ powerup\ when\ an\ instance\ of\ Items\ is\ created\r\n
+comment3.params=
+comment3.target=void\ activate()
+comment4.params=
+comment4.target=Items\ dropRate()
+comment4.text=\r\n\ Calculates\ if\ and\ what\ item\ should\ drop,\ and\ returns\ it\r\n
+numComments=5

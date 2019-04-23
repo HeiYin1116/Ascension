@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Explosion\ circle\ used\ by\ the\ boss's\ area\ attack,\ is\ harmful\ to\ the\ player\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ Creates\ the\ initial\ small\ circle\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MenuControl
+comment0.text=\r\n\ Title/Gameover\ screen\ control\ Class.\r\n
+comment1.params=start\ intro\ buttonHeld
+comment1.target=MenuControl(boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Create\ a\ Menu\ Control,\ start\ is\ whether\ the\ TitleScreen\ has\ been\ passed,\ \r\n\ intro\ is\ whether\ it's\ at\ the\ start\ or\ end\ of\ a\ game\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeError()
+comment3.text=\r\n\ Removes\ any\ password\ error\ text\r\n
+numComments=4

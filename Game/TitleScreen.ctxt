@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment1.params=
+comment1.target=TitleScreen()
+comment1.text=\r\n\ Create\ a\ TitleScreen\ with\ animated\ Actors\ and\ keyboard\ menu\ controls\r\n
+comment2.params=
+comment2.target=void\ createBorder()
+comment2.text=\r\n\ Creates\ the\ grass\ and\ tree\ border.\r\n
+comment3.params=
+comment3.target=void\ createTitle()
+comment3.text=\r\n\ Sets\ the\ images\ for\ the\ title\ page.\r\n
+comment4.params=
+comment4.target=void\ createEnemy()
+comment4.text=\r\n\ Creates\ the\ enemies\ for\ the\ title\ page.\r\n
+comment5.params=
+comment5.target=void\ createCharacter()
+comment5.text=\r\n\ Creates\ the\ character\ for\ the\ title\ page.\r\n
+comment6.params=
+comment6.target=void\ createHighScoreList()
+comment6.text=\r\n\ Create\ a\ highscore\ Actor\ which\ listens\ for\ the\ H\ keypress\r\n
+comment7.params=
+comment7.target=MenuControl\ getMenuControl()
+comment7.text=\r\n\ Gets\ the\ MenuControl\r\n
+numComments=8

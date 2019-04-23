@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Flying
+comment0.text=\r\n\ Small\ enemy\ that\ can\ fly\ over\ all\ obstacles,\ medium\ hp,\ low\ damage/speed\r\n
+comment1.params=speedBonus\ hpBonus\ damageBonus
+comment1.target=Flying(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Flying\ that\ takes\ parameters\ of\ speedBonus,\ hpBonus\ and\ damageBonus.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ createAnimation()
+comment3.text=\r\n\ Create\ the\ images\ needed\ for\ animation\ and\ store\ them\ in\ an\ array\r\n
+numComments=4

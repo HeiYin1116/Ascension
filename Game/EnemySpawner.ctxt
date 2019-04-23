@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemySpawner
+comment0.text=\r\n\ EnemySpawner\ deals\ with\ randomly\ placing\ enemies\ around\ the\ play\ area\ based\ on\ the\ current\ level,\ while\ also\r\n\ conferring\ bonuses\ to\ the\ enemies\ stats\ as\ the\ level\ increases\r\n
+comment1.params=world\ level
+comment1.target=EnemySpawner(MyWorld,\ int)
+comment1.text=\r\n\ Takes\ parameters\ of\ world\ and\ what\ level\ the\ game\ is\ on\r\n\ This\ will\ spawn\ a\ specific\ enemy\ pattern\ depending\ on\ what\ level\ it's\ on\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Spawns\ the\ enemy\ one\ at\ a\ time\ at\ random\ location\ on\ the\ map.\ \r\n\ Upgrades\ on\ enemies\ attack\ and\ health\ based\ on\ level.\r\n
+comment3.params=e
+comment3.target=void\ spawnEnemy(Enemy)
+comment3.text=\r\n\ Spawns\ an\ enemy\ of\ the\ provided\ class\ at\ a\ random\ location\ on\ the\ edge\ of\ the\ play\ area\r\n
+numComments=4

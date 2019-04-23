@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShieldPowerUp
+comment0.text=\r\n\ ShieldPowerUp\ which\ provides\ the\ character\ with\ invulnerability\ for\ its\ duration\r\n
+comment1.params=
+comment1.target=ShieldPowerUp()
+comment1.text=\r\n\ Creates\ the\ ShieldPowerUp\ grid\ in\ the\ UI\ section\ at\ the\ bottom\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ countDown\ is\ subtracted\ in\ the\ superclass,\ when\ countDown\ \=\=\ 1\ it\ will\ deactivate\ the\ power\ up\r\n
+comment3.params=
+comment3.target=void\ activateShield()
+comment3.text=\r\n\ Activates\ the\ power\ up\ and\ sets\ the\ countdown\ to\ 600\ and\ changes\ the\ image\ indicating\ the\ power\ up\ is\ active\r\n
+comment4.params=
+comment4.target=void\ deactivateShield()
+comment4.text=\r\n\ Deactivates\ the\ power\ up\r\n
+numComments=5

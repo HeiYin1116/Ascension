@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Range
+comment0.text=\r\n\ Enemy\ with\ a\ ranged\ attack,\ low\ hp/damage\r\n
+comment1.params=speedBonus\ hpBonus\ damageBonus
+comment1.target=Range(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Range\ that\ takes\ parameters\ of\ speedBonus,\ hpBonus\ and\ damageBonus.\r\n
+comment2.params=title
+comment2.target=Range(TitleScreen)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Range\ that\ takes\ parameters\ of\ title,\ this\ is\ used\ for\ the\ title\ screen.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Overridden\ method\ that\ adds\ the\ Range\ attack\ to\ the\ standard\ movement/contact\ damage\ logic\ from\ Enemy\r\n
+comment4.params=
+comment4.target=void\ attack()
+comment4.text=\r\n\ Fires\ a\ shot\ at\ the\ character,\ with\ some\ randomness\ to\ the\ cooldown\ between\ shots\ and\ the\ angle\ of\ fire\r\n
+comment5.params=
+comment5.target=int\ getDamage()
+comment5.text=\r\n\ Returns\ the\ variable\ damage.\r\n
+comment6.params=
+comment6.target=int\ getBulletDamage()
+comment6.text=\r\n\ Returns\ the\ ranged\ damage\r\n
+comment7.params=
+comment7.target=void\ createAttackAnimation()
+comment7.text=\r\n\ Create\ the\ images\ needed\ for\ animation\ and\ store\ them\ in\ arrays\r\n
+numComments=8

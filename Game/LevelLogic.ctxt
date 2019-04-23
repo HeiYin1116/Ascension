@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LevelLogic
+comment0.text=\r\n\ LevelLogic\ keeps\ track\ of\ when\ to\ open\ the\ exit\ to\ the\ next\ level,\ opens\ it\ by\ removing\ the\ wall\ on\ \r\n\ the\ right\ hand\ side,\ and\ then\ calls\ the\ world's\ NextLevel\ method\ when\ the\ character\ travels\ through\ the\ opening\r\n
+comment1.params=level
+comment1.target=LevelLogic(int)
+comment1.text=\r\n\ Creates\ a\ LevelLogic\ instance\ which\ presides\ over\ a\ single\ level\r\n
+comment2.params=
+comment2.target=void\ setWall()
+comment2.text=\r\n\ Find\ the\ terrain\ pieces\ in\ the\ right\ hand\ wall\ and\ store\ reference\ to\ them\ in\ an\ ArrayList\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Checks\ if\ there\ are\ enemies\ left.\ If\ no\ enemies\ remain\ remove\ one\ section\ of\ wall\ every\ 5\ frames\r\n\ until\ every\ piece\ has\ been\ removed\r\n\ Once\ the\ wall\ is\ removed,\ start\ checking\ if\ the\ character\ has\ passed\ through\ to\ start\ the\ next\ level\r\n
+numComments=4

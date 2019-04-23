@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=HighScores
+comment0.text=\r\n\ Highscores\ screen\ accessible\ from\ the\ start\ screen\r\n
+comment1.params=
+comment1.target=HighScores()
+comment1.text=\r\n\ Creates\ and\ prepares\ the\ HighScores\ screen,\ as\ well\ as\ the\ controller\ that\ listens\ for\ the\ H\ button\ press\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setWorld()
+comment3.text=\r\n\ Set\ the\ current\ world\ that\ the\ HighScores\ screen\ exists\ within\r\n
+comment4.params=
+comment4.target=void\ getScores()
+comment4.text=\r\n\ Gets\ the\ scores\ from\ the\ file\ saved\ to\ the\ local\ drive\r\n
+comment5.params=
+comment5.target=void\ prepareList()
+comment5.text=\r\n\ Prepares\ all\ the\ images\ and\ text\ needed\ for\ the\ high\ score\ screen\r\n
+comment6.params=
+comment6.target=void\ drawList()
+comment6.text=\r\n\ Draws\ all\ the\ elements\ of\ the\ highscore\ screen\r\n
+comment7.params=
+comment7.target=void\ removeList()
+comment7.text=\r\n\ Removes\ all\ elements\ of\ the\ highscore\ screen\r\n
+numComments=8

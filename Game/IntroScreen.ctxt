@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IntroScreen
+comment1.params=
+comment1.target=IntroScreen()
+comment1.text=\r\n\ Creates\ an\ informational\ screen\ that\ shows\ the\ controls\ of\ the\ game\r\n
+comment2.params=
+comment2.target=void\ createBorder()
+comment2.text=\r\n\ Creates\ the\ grass\ and\ tree\ border.\r\n
+comment3.params=
+comment3.target=void\ createIntroScreen()
+comment3.text=\r\n\ Adds\ a\ new\ EndGameScreen\ object\ to\ the\ world.\r\n
+numComments=4

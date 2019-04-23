@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MeleeWeapon
+comment0.text=\r\n\ Sword\ weapon\ for\ the\ character\r\n
+comment1.params=
+comment1.target=MeleeWeapon()
+comment1.text=\r\n\ Creates\ a\ sword\ weapon\ with\ the\ logic\ needed\ to\ check\ if\ it\ should\ be\ swung,\ and\ whether\ it's\ hitting\ enemies\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ rotate()
+comment3.text=\r\n\ Rotates\ the\ sword\ around\ the\ character,\ both\ moving\ it\ and\ changing\ the\ image\r\n
+comment4.params=
+comment4.target=void\ centreOnCharacter()
+comment4.text=\r\n\ Keeps\ the\ sword\ centred\ on\ the\ character's\ location\r\n
+comment5.params=
+comment5.target=void\ checkKeys()
+comment5.text=\r\n\ Checks\ if\ the\ sword-swing\ button\ has\ been\ pressed,\ attacking\ if\ it\ has\ been\r\n
+comment6.params=
+comment6.target=void\ setUpSoundEffects()
+comment6.text=\r\n\ Initialises\ the\ soundEffects\ from\ their\ files\r\n
+comment7.params=x\ y
+comment7.target=void\ melee(int,\ int)
+comment7.text=\r\n\ Swings\ sword\ in\ direction\ of\ coordinates\ given\r\n
+comment8.params=
+comment8.target=void\ attack()
+comment8.text=\r\n\ Checks\ if\ enemies\ have\ been\ hit\ by\ sword\ and\ damages\ them\ if\ so\r\n
+numComments=9

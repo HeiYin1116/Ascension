@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PowerUpBoots
+comment0.text=\r\n\ PowerUpBoots\ double\ the\ movement\ speed\ of\ the\ character\ for\ its\ duration\r\n
+comment1.params=
+comment1.target=PowerUpBoots()
+comment1.text=\r\n\ Creates\ the\ PowerUpBoots\ grid\ in\ the\ UI\ section\ at\ the\ bottom\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ countDown\ is\ subtracted\ in\ the\ superclass,\ when\ countDown\ \=\=\ 1\ it\ will\ deactivate\ the\ power\ up\r\n
+comment3.params=
+comment3.target=void\ activateBoots()
+comment3.text=\r\n\ Activates\ the\ power\ up,\ if\ character\ speed\ is\ at\ its\ base\ value\ of\ 4\ it\ will\ double\ it\ and\ sets\ the\ countDown\ to\ 600(10s)\r\n\ \ changes\ the\ image\ indicating\ the\ active\ power\ up\r\n\ else,\ just\ resets\ the\ countDown\ to\ 600\r\n
+comment4.params=
+comment4.target=void\ deactivateBoots()
+comment4.text=\r\n\ Reverts\ character\ speed\ back\ to\ its\ base\r\n
+numComments=5

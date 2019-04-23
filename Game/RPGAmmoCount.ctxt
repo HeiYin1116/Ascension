@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RPGAmmoCount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RPGAmmoCount\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RPGAmmoCount()
+comment1.text=\r\n\ Creates\ the\ UI\ element\ which\ keeps\ track\ of\ current\ RPG\ Ammo\r\n
+comment2.params=
+comment2.target=void\ createGrid()
+comment2.text=\r\n\ Creates\ the\ grid\ to\ go\ around\ the\ gun\ and\ the\ number\ of\ bullets.\r\n
+comment3.params=
+comment3.target=void\ changeRPGImage()
+comment3.text=\r\n\ Changes\ the\ images\ of\ the\ gun\ if\ you\ have\ bullets\ or\ no\ bullets.\r\n
+comment4.params=ammo
+comment4.target=void\ rpgAmmoCounter(int)
+comment4.text=\r\n\ Creates\ the\ numbers\ and\ adds\ them\ to\ the\ world\ for\ the\ ammo\ count.\r\n
+comment5.params=
+comment5.target=void\ removeOneRPGAmmo()
+comment5.text=\r\n\ Change\ the\ amount\ of\ ammo\ you\ have\ and\ the\ image\ if\ you\ have\ no\ ammo.\r\n
+comment6.params=
+comment6.target=int\ getRPGAmmo()
+comment6.text=\r\n\ Returns\ the\ amount\ of\ ammo\ you\ have.\r\n
+comment7.params=
+comment7.target=void\ gainRPGAmmo()
+comment7.text=\r\n\ Increases\ the\ ammount\ to\ ammo\ you\ have\ until\ you\ get\ to\ the\ max\ 100.\r\n
+numComments=8

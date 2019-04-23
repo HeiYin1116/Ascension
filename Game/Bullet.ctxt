@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Bullet\ projectile\ that\ can\ be\ created\ by\ the\ character\ or\ enemies\r\n
+comment1.params=angle\ damage
+comment1.target=Bullet(double,\ int)
+comment1.text=\r\n\ Creates\ a\ bullet,\ changes\ properties\ depending\ on\ whether\ it\ is\ character\ or\ enemy\ created\r\n\ If\ created\ by\ the\ player,\ pass\ 0\ as\ the\ damage\ value,\ otherwise\ pass\ the\ damage\ of\ the\ enemy\r\n
+comment2.params=
+comment2.target=void\ initialiseLocation()
+comment2.text=\r\n\ Initialise\ the\ location\ of\ the\ bullet\ and\ the\ character\ in\ the\ current\ world\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=angle
+comment4.target=void\ move(double)
+comment4.text=\r\n\ Move\ the\ bullet\ speed\ distance\ at\ the\ angle\ provided\r\n
+comment5.params=
+comment5.target=void\ removeCheck()
+comment5.text=\r\n\ Checks\ if\ the\ bullet\ is\ intersecting\ an\ impassable\ terrain,\ and\ removes\ it\ if\ so\r\n
+numComments=6

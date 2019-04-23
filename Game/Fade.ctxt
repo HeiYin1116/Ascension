@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fade
+comment0.text=\r\n\ Fades\ the\ screen\ to\ black\ when\ character\ dies.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Fades\ the\ screen\ bit\ by\ bit\ on\ every\ frame\ until\ blackscreen\r\n
+numComments=2

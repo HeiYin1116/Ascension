@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HPbar
+comment0.text=\r\n\ UI\ element\ for\ the\ HP\ Bar,\ scales\ and\ updates\ the\ bar\ as\ health\ changes\r\n
+comment1.params=
+comment1.target=HPbar()
+comment1.text=\r\n\ Creates\ the\ HP\ bar\ and\ sets\ it's\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateCharacterHP()
+comment3.text=\r\n\ Calculate\ current\ HP\ Percentage\r\n
+comment4.params=scale
+comment4.target=void\ scaleHP(float)
+comment4.text=\r\n\ Redraw\ the\ image\ based\ on\ the\ current\ HP\ Percentage\r\n
+comment5.params=
+comment5.target=void\ setCharacter()
+comment5.text=\r\n\ Gets\ the\ character\ in\ the\ world.\r\n
+numComments=6

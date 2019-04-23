@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PowerUpDD
+comment0.text=\r\n\ PowerUpDD\ doubles\ the\ melee\ damage\ of\ the\ character\ for\ its\ duration\r\n
+comment1.params=
+comment1.target=PowerUpDD()
+comment1.text=\r\n\ Creates\ the\ PowerUpDD\ grid\ in\ the\ UI\ section\ at\ the\ bottom\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ countDown\ is\ subtracted\ in\ the\ superclass,\ when\ countDown\ \=\=\ 1\ it\ will\ deactivate\ the\ power\ up\r\n
+comment3.params=
+comment3.target=void\ activateDD()
+comment3.text=\r\n\ Activates\ the\ power\ up,\ if\ the\ limit\ is\ false,\ i.e\ damage\ has\ NOT\ doubled,\ it\ will\ double\ the\ damage\ and\ set\ countDown\ to\ 600\r\n\ \ and\ sets\ limit\ \=\ true\ and\ changes\ the\ image\ indicating\ the\ active\ power\ up\r\n\ else,\ it\ will\ reset\ countDown\ to\ 600\r\n
+comment4.params=
+comment4.target=void\ deactivateDD()
+comment4.text=\r\n\ Reverts\ characters\ attack\ back\ and\ resets\ limit\ \=\ false\r\n
+numComments=5

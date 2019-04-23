@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MusicControl
+comment0.text=\r\n\ Actor\ which\ controls\ the\ currently\ playing\ music,\ allowing\ the\ user\ to\ pause\ it\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

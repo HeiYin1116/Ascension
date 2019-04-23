@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LakeCreator
+comment0.text=\r\n\ Creates\ a\ lake\ made\ of\ individual\ 30x30\ tiles,\ effectively\ storing\ the\ numerous\ tiles\ as\ a\ single\ objects\ which\ you\ can\ find\ the\ boundaries\ of\r\n
+comment1.params=w\ xpos\ ypos\ width\ height
+comment1.target=LakeCreator(greenfoot.World,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ lake\ in\ a\ given\ world\ to\ the\ given\ dimensions\ in\ the\ given\ x/y\ position\r\n
+comment2.params=
+comment2.target=int\ getLeft()
+comment2.text=\r\n\ Gets\ the\ left\ x\ position\ of\ the\ lake.\r\n
+comment3.params=
+comment3.target=int\ getTop()
+comment3.text=\r\n\ Gets\ the\ top\ y\ position\ of\ the\ lake.\r\n
+comment4.params=
+comment4.target=int\ getRight()
+comment4.text=\r\n\ Gets\ the\ right\ x\ position\ of\ the\ lake.\r\n
+comment5.params=
+comment5.target=int\ getBottom()
+comment5.text=\r\n\ Gets\ the\ bottom\ y\ position\ of\ the\ lake.\r\n
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Walker
+comment0.text=\r\n\ Basic\ Enemy\ type,\ medium\ speed/hp/damage\r\n
+comment1.params=speedBonus\ hpBonus\ damageBonus
+comment1.target=Walker(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Walker\ that\ takes\ parameters\ of\ speedBonus,\ hpBonus\ and\ damageBonus.\r\n
+comment2.params=title
+comment2.target=Walker(TitleScreen)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Walker\ that\ takes\ parameters\ of\ title,\ this\ is\ used\ for\ the\ title\ screen.\r\n
+comment3.params=title
+comment3.target=Walker(EndGameScreen)
+comment3.text=\r\n\ Constructor\ used\ for\ the\ animated\ enemy\ on\ the\ endgame\ screen\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ createWalkingAnimation()
+comment5.text=\r\n\ Create\ the\ images\ needed\ for\ animation\ and\ store\ them\ in\ arrays\r\n
+numComments=6
